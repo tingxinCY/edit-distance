@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "eslint-config-ali/typescript/react",
+    "prettier/@typescript-eslint"
+  ]
+}
